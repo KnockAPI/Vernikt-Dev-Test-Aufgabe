@@ -1,0 +1,9 @@
+name: Umfrage
+version: 1.0
+main: net.venikt.umfrage.Umfrage
+author: WasHeisstKnock
+
+commands:
+  votekick:
+  ja:
+  nein:
